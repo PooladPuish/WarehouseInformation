@@ -1,0 +1,13 @@
+{
+    "name": "DetailsStore",
+    "alias": "detailsstore",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DetailsStore\\Providers\\DetailsStoreServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

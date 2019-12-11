@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/detailsstore",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\DetailsStore\\Providers\\DetailsStoreServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DetailsStore\\": ""
+        }
+    }
+}

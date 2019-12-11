@@ -1,0 +1,6 @@
+{
+    "SalesCustomers": true,
+    "Store": true,
+    "DetailsStore": true,
+    "Buy": true
+}
